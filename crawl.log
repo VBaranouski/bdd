@@ -1,0 +1,54 @@
+2015-12-04 13:57:22  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 13:57:56  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 13:58:36  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 13:59:54  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:05:14  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:12:36  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:19:48  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:38:26  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:39:19  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:42:08  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:43:16  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:44:32  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:45:37  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:46:45  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:47:16  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:47:54  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:49:58  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:57:25  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 14:57:35  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:11:40  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:11:49  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:12:10  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:12:28  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:14:35  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:14:44  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:14:53  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:15:02  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:20:45  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:21:05  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:21:14  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:21:45  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:21:55  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:22:04  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:22:13  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:30:45  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:30:46  INFO main StepDefinitions:iLoggedInWithTheFirstUser:40 - page opens
+2015-12-04 15:30:50  INFO main StepDefinitions:iLoggedInWithTheFirstUser:45 - Login with first user was successful
+2015-12-04 15:30:51  INFO main StepDefinitions:iClickSendButton:67 - Email has been sent
+2015-12-04 15:30:53  INFO main StepDefinitions:closeChrome:33 - Browser closed
+2015-12-04 15:30:54  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:30:58  INFO main StepDefinitions:iLoggedInWithTheSecondUser:77 - Login with second user was successful
+2015-12-04 15:31:00  INFO main StepDefinitions:iCheckTheRecievedMail:84 - Email was found
+2015-12-04 15:31:00  INFO main StepDefinitions:iMarkLetterAsSpam:91 - Email marked as spam
+2015-12-04 15:31:01  INFO main StepDefinitions:iCheckSpamFolder:98 - Email was found in Spam folder
+2015-12-04 15:31:02  INFO main StepDefinitions:closeChrome:33 - Browser closed
+2015-12-04 15:31:04  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:31:05  INFO main StepDefinitions:iLoggedInWithTheFirstUser:40 - page opens
+2015-12-04 15:31:08  INFO main StepDefinitions:iLoggedInWithTheFirstUser:45 - Login with first user was successful
+2015-12-04 15:31:10  INFO main StepDefinitions:iClickSendButton:67 - Email has been sent
+2015-12-04 15:31:11  INFO main StepDefinitions:closeChrome:33 - Browser closed
+2015-12-04 15:31:13  INFO main Browser:initChromeBrowser:37 - Browser started
+2015-12-04 15:31:17  INFO main StepDefinitions:iLoggedInWithTheSecondUser:77 - Login with second user was successful
+2015-12-04 15:31:19  INFO main StepDefinitions:iCheckSpamFolder:98 - Email was found in Spam folder
+2015-12-04 15:31:20  INFO main StepDefinitions:iCheckTheRecievedMail:84 - Email was found
